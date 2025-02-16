@@ -18,17 +18,3 @@ Welcome to the **Supervised Learning Tutorials** repository! This collection of 
   
 - **README.md**
   - This documentation file.
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Jupyter Notebook or JupyterLab
-- Required Python libraries (listed in each notebook)
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/supervised-learning-tutorials.git
